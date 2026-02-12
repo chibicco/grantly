@@ -1,0 +1,15 @@
+{
+  "name": "grantly",
+  "owner": {
+    "name": "chibicco"
+  },
+  "metadata": {
+    "description": "Analyze session history and suggest per-command permission rules for Claude Code"
+  },
+  "plugins": [
+    {
+      "name": "grantly",
+      "source": "./"
+    }
+  ]
+}

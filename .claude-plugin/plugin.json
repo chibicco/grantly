@@ -1,0 +1,14 @@
+{
+  "name": "grantly",
+  "version": "0.1.0",
+  "description": "Analyze Claude Code session history and suggest permission candidates",
+  "author": {
+    "name": "chibicco"
+  },
+  "homepage": "https://github.com/chibicco/grantly",
+  "repository": "https://github.com/chibicco/grantly",
+  "license": "MIT",
+  "keywords": ["permissions", "security", "settings", "workflow"],
+  "commands": "./commands/",
+  "skills": "./skills/"
+}
